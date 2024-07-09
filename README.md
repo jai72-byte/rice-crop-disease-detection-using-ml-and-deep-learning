@@ -28,7 +28,7 @@ This project aims to detect various diseases in rice plants using image classifi
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/jagadeesh-sagar/Rice-Disease-Prediction.git
+    git clone https://github.com/jai72/Rice-Disease-Prediction.git
     ```
 
 2. **Install dependencies:**
